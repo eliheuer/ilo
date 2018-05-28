@@ -4,14 +4,14 @@
 <dict>
 	<key>H</key>
 	<string>H_.glif</string>
-	<key>R</key>
-	<string>R_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>colon</key>
+	<string>colon.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
 	<key>d</key>
